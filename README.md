@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnny25-bit
-- 👀 I’m interested in android and game dev
-- 🌱 I’m currently learning python
+- 👀 I'm an android,ios and game developer with unreal engine. 
+- 🌱 Also a 3d artist that majors in sculpting and animation.
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me idama653@gmail.com 
 
